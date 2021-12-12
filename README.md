@@ -1,6 +1,6 @@
 # Stock Exchange API – NodeJS
 
-docker run -d -p 8080:8080 u1ih/nodejs-api
+docker run -d -p 8080:8080 YizhunSim/nodejs-api
 
 curl -i http://localhost:8080/fx
 
